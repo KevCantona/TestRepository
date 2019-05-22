@@ -1,0 +1,1 @@
+To demo removing a file from stage but keeping it in working direcrory
